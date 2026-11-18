@@ -11,13 +11,13 @@ This is not a proof of the Riemann Hypothesis. Every claim in the documents carr
 
 ## Published version (Zenodo, CC BY 4.0)
 
-- Latest: version 3.2.3 (2026-11-17) — https://doi.org/10.5281/zenodo.24309869
+- Latest: version 3.2.4 (2026-11-18) — https://doi.org/10.5281/zenodo.24344604
 
 - All versions (always resolves to the latest): https://doi.org/10.5281/zenodo.23834998
 
 The commentary, the full report and "The author's positions and pictures" are released there under CC BY 4.0. Please cite the Zenodo record.
 
-Note: the DOI badge at the top belongs to the automatic GitHub archive of this repository. For citation, please use the commentary record above (10.5281/zenodo.24309869, or the all-versions DOI 10.5281/zenodo.23834998).
+Note: the DOI badge at the top belongs to the automatic GitHub archive of this repository. For citation, please use the commentary record above (10.5281/zenodo.24344604, or the all-versions DOI 10.5281/zenodo.23834998).
 
 
 ## Files in this repository
@@ -43,8 +43,8 @@ Earlier report files (v1.0–v1.7) were removed from the current tree; the publi
 
 리만 가설의 증명이 아니다. 문서의 모든 주장에는 꼬리표가 붙어 있고, 리만 가설은 열린 문제로 남는다.
 
-- 최신 공개판(Zenodo 판 3.2.3, CC BY 4.0): https://doi.org/10.5281/zenodo.24309869
+- 최신 공개판(Zenodo 판 3.2.4, CC BY 4.0): https://doi.org/10.5281/zenodo.24344604
 
-- 맨 위 DOI 배지는 이 저장소의 GitHub 자동 보관 기록이다. 인용은 위 해설 기록(10.5281/zenodo.24309869, 전체 판 10.5281/zenodo.23834998)으로 해 주기 바란다.
+- 맨 위 DOI 배지는 이 저장소의 GitHub 자동 보관 기록이다. 인용은 위 해설 기록(10.5281/zenodo.24344604, 전체 판 10.5281/zenodo.23834998)으로 해 주기 바란다.
 
 - `docs/`에는 저자 보관본(보호 PDF, All rights reserved) 세 편이 있다: 시험과 검토 보고서 v8.35, 리만 가설 접근 노트 v10.35, 저자의 입장과 그림 v1.35.
