@@ -24,11 +24,11 @@ Note: the DOI badge at the top belongs to the automatic GitHub archive of this r
 
 `docs/` holds the author's protected copies (read-only PDFs, all rights reserved):
 
-- `황미정_십자좌표_시험과검토_v8.32_보호.pdf` — Test and review report v8.32 (formula lines 1–131)
+- `황미정_십자좌표_시험과검토_v8.33_보호.pdf` — Test and review report v8.33 (formula lines 1–133)
 
-- `리만가설_접근노트_v10.32_보호.pdf` — Approach notes v10.32
+- `리만가설_접근노트_v10.33_보호.pdf` — Approach notes v10.33
 
-- `황미정모형_저자의입장과그림_v1.32_보호.pdf` — The author's positions and pictures v1.32
+- `황미정모형_저자의입장과그림_v1.33_보호.pdf` — The author's positions and pictures v1.33
 
 Earlier report files (v1.0–v1.7) were removed from the current tree; the published history is on Zenodo.
 
@@ -47,4 +47,4 @@ Earlier report files (v1.0–v1.7) were removed from the current tree; the publi
 
 - 맨 위 DOI 배지는 이 저장소의 GitHub 자동 보관 기록이다. 인용은 위 해설 기록(10.5281/zenodo.24309869, 전체 판 10.5281/zenodo.23834998)으로 해 주기 바란다.
 
-- `docs/`에는 저자 보관본(보호 PDF, All rights reserved) 세 편이 있다: 시험과 검토 보고서 v8.32, 리만 가설 접근 노트 v10.32, 저자의 입장과 그림 v1.32.
+- `docs/`에는 저자 보관본(보호 PDF, All rights reserved) 세 편이 있다: 시험과 검토 보고서 v8.33, 리만 가설 접근 노트 v10.33, 저자의 입장과 그림 v1.33.
